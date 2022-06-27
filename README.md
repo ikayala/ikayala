@@ -2,7 +2,7 @@
 - 👀 I’m interested in ✈️travelling
 - 🌱 I’m currently learning 💻devOps
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 📧me
+- 📫 How to reach me 📧me on ikayala@gmail.com
 
 <!---
 ikayala/ikayala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
